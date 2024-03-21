@@ -151,7 +151,7 @@ def main():
     plt.savefig('./2c.png')
     print("Best validation accuracy: ", best)
     print("Test accuracy: ", evaluate(test_data, theta, beta))
-    # R^Best validation accuracy:  0.7064634490544736
+    # Best validation accuracy:  0.7064634490544736
     # Test accuracy:  0.7092859158904883
     #####################################################################
     #                       END OF YOUR CODE                            #
